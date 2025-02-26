@@ -1,0 +1,5 @@
+.Rproj.user
+.Rbuildignore
+.Rhistory
+inst/doc
+output_probs/
